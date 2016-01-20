@@ -27,19 +27,20 @@ author: Phillip R. Polefrone
 
 ###1/31: Exploratory Draft due 5PM
 
+###2/1 - 2/5 P1 Conferences
+
 ###2/1: What is an intellectual problem? (Economy, Environment, Text)
 
 - **Reading**: the first few pages of "Private Discourse in *Walden*" by Ronald
-    B. Schwartz and "Economic
-    Metaphor Redefined: The Transcendental Capitalist at Walden"; *skim*
-    "Economy," Henry David Thoreau (from *Walden*)
+    B. Schwartz and "Economic Metaphor Redefined: The Transcendental Capitalist
+    at Walden"; *skim* "Economy," Henry David Thoreau (from *Walden*); TMR
+    essay (TBA)
 - **Homework** Exploratory Draft (due 1/31 by 5PM)
-
 
 ###2/3: Methods and Tactics of Engagement---Response vs. Analysis
 
-- **Reading**: Jack Klempay, "The Definitively Non-Standard English of David Foster Wallace"
-    (TMR); Joseph Harris, "Coming to Terms" (from *Rewriting*)
+- **Reading**: Jack Klempay, "The Definitively Non-Standard English of David
+    Foster Wallace" (TMR); Joseph Harris, "Coming to Terms" (from *Rewriting*)
 - **Homework**: Exercise 1d
 
 ###2/5: Formal Draft Due by 6PM (to me and your workshop partner)
@@ -89,6 +90,8 @@ author: Phillip R. Polefrone
 - **Reading**: Williams, "Cohesion and Coherence"
 - **Homework** **Formal Draft**
 
+###3/1 - 3/7 P2 Conferences
+
 ###3/2: Workshop 
 
 - **Reading**: Partner's draft
@@ -113,11 +116,10 @@ author: Phillip R. Polefrone
 - **Reading**: Naomi Klein, "Capitalism vs. the Climate"
 - **Homework** Exercise 3a
 
-###3/23: Preparing for Proposals
+###3/23: Developing a Project: Scale, Scope, and Humanities Research
 
-- **Reading**: Dawson, "The Hostile Environment" (TMR); *The Craft of
-    Research*, Chapters 3 and 4
-- **Homework**: Assignment 3b Proposal
+- Reading: TMR Essays (TBA)
+- Homework: Exercise 3b
 
 ###3/28: Library Day
 
@@ -125,20 +127,28 @@ author: Phillip R. Polefrone
 - **Homework**: Assignment 3c Preliminary Bibliography (3-4
     sources)
 
+###3/30: Preparing for Proposals
+
+- **Reading**: Dawson, "The Hostile Environment" (TMR); *The Craft of
+    Research*, Chapters 3 and 4
+- **Homework**: Assignment 3b Proposal
+
 ###4/1: Exploratory Draft due to me and partners by 12PM
 
-###4/4: Proposal Pitches (Small Groups)
+###4/4: Presentations
 
 - **Reading**: Partners' Exploratory Drafts
 - **Homework**: Written response to drafts; prepare five minute oral presentation of
     your pitch.
 
-###4/6: Note Taking and Research
+###4/6: Presentations
 
 - **Reading**: None
 - **Homework** Lightly Annotated Bibliography and Abstract
 
 ###4/8: Formal Drafts Due by 5PM
+
+###4/11 - 4/15 P3 Conferences
 
 ###4/11: Draft Workshop
 
@@ -150,7 +160,7 @@ author: Phillip R. Polefrone
 - **Reading**: TBA
 - **Homework** Exercise 3d
 
-###4/18: Final P3 Draft Due
+###4/20: Final Essay Due (in class)
 
 ##4th Progression: Op-Ed: Localism and the Planet
 
@@ -162,7 +172,7 @@ author: Phillip R. Polefrone
 ###4/20: Paper versus Publication
 
 - **Reading**: Gordon, "Reaching beyond the University: Writing the Op-Ed" (TMR)
-- **Homework**: Article Pitch (Exploratory Draft)
+- **Homework**: P3 Final Due in class
 
 ###4/25: Persuasion and Motive (Localism)
 
@@ -170,12 +180,18 @@ author: Phillip R. Polefrone
     "Bioregionalism" (from *Radical Ecology*)
 - **Homework** Exercise 4b
 
-###4/27: Formal Draft Due 5PM
+###4/27: Structure of the Op-Ed (What is a "Problem" Again?)
+
+- **Reading**: TMR Essays (TBA)
+- **Homework**: Exercise 4c
+
+###5/1: Op-Ed draft due to partners by 10PM
 
 ###5/2: Workshop
 
 - **Reading**: Partner draft
-- **Homework** Annotated partner draft
+- **Homework** Annotated partner draft; your own draft due to partners by 10PM
+    5/1
 
 ###5/5: Final Op-Ed Due 
 
