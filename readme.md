@@ -70,104 +70,104 @@ author: Phillip R. Polefrone
 - **Homework**: Response to Hardin (See syllabus on requirements of a
     "response")
 
-###2/22: Exhibits (Critiquing the Commons)
+###2/22: Deepening Analysis (Critiquing the Commons)
+
+- **Reading**: Rob Nixon, "Neoliberalism, Genre, and the 'Tragedy of the
+    Commons'"
+- **Homework**: Response
+
+###2/24: Exhibits (Critiquing the Commons)
 
 - **Reading**: Naomi Klein, "Why #BlackLivesMatter Should Transform the Climate
     Debate"; Carolyn Finney, "This Land is Your Land, This Land is My Land:
-    People and Public Lands Redux"
-- **Homework** Exercise 2b
+    People and Public Lands Redux"; "For the Ultimate Green" (TMR), Christine
+    Kim
+- **Homework** Exercise 2c
 
-###2/24: Deepening Analysis (Critiquing the Commons)
+###2/29: Some Effective Models; Structure
 
-- **Reading**: TMR essay (TBA); Rob Nixon, "Neoliberalism, Genre, and the
-    'Tragedy of the Commons'"
-- **Homework**: Exercise 2c
+- **Reading**: Lukas Huffman, "Manhattanville, Meet West Harlem: An Urban
+    Frontier"; Kevin Powers, "It's a Predator's World"; Hayot, "The Uneven U"
+- **Homework**: Exercise 2d
 
-###2/29 Formal Draft Due (in class)
+###3/1 Formal Draft Due by NOON
 
-###2/29: Proposing Alternatives and Weighing Paradigms (Governing the Commons, or an Alternative Economics)
-
-- **Reading**: Williams, "Cohesion and Coherence"
-- **Homework** **Formal Draft**
-
-###3/1 - 3/7 P2 Conferences
+###3/2 - 3/7 P2 Conferences
 
 ###3/2: Workshop 
 
 - **Reading**: Partner's draft
 - **Homework** Continue revising
 
-###3/7: Workshop/TBA
+###3/7: Style and Rhetoric
 
-- **Reading**: Booth, "Judging Rhetoric" (from *The Rhetoric of Rhetoric*)
+- **Reading**: Williams, "Cohesion and Coherence"; Booth, "Judging Rhetoric"
+    (from *The Rhetoric of Rhetoric*)
 - **Homework** Continue revising
 
-###3/11: Final Essay Due, 5PM
+###3/9: Preview P3
 
-##3rd Progression: Research: Ecology vs. Economy
+- Reading: None
+- Homework: Continue revising
 
-###3/9: Introduction to the Research Progression; Types of essay; BEAM
+###3/11: Final Essay Due by midnight
+
+##3rd Progression: Research: Film Review
+
+###3/21: Introduction to the Research Progression; Types of essay; BEAM
 
 - **Reading**: 4 TMR essays
-- **Homework**: Contemplate Controversy vs. Review
+- **Homework**: None
 
-###3/21: Discourse and the Academic "Genre" (Climate Change and the Economy)
+###3/23: Close-Reading a Film
 
-- **Reading**: Naomi Klein, "Capitalism vs. the Climate"
+- **Reading**: Bousé on Close-Ups
 - **Homework** Exercise 3a
 
-###3/23: Developing a Project: Scale, Scope, and Humanities Research
+###3/28: Finding Sources
 
-- Reading: TMR Essays (TBA)
+- Reading: None
 - Homework: Exercise 3b
 
-###3/28: Library Day
+###3/30: Using Sources
 
-- **Reading**: TBA
-- **Homework**: Assignment 3c Preliminary Bibliography (3-4
-    sources)
+- **Reading**: *The Craft of Research*, Chapters 3 and 4 (on Courseworks)
+- **Homework**: None
 
-###3/30: Preparing for Proposals
-
-- **Reading**: Dawson, "The Hostile Environment" (TMR); *The Craft of
-    Research*, Chapters 3 and 4
-- **Homework**: Assignment 3b Proposal
-
-###4/1: Exploratory Draft due to me and partners by 12PM
+###4/4: Exploratory Draft (hard copy, in class)
 
 ###4/4: Presentations
 
-- **Reading**: Partners' Exploratory Drafts
-- **Homework**: Written response to drafts; prepare five minute oral presentation of
-    your pitch.
+- **Reading**: None
+- **Homework**: 5-7 minute oral presentation (group 1)
 
 ###4/6: Presentations
 
 - **Reading**: None
-- **Homework** Lightly Annotated Bibliography and Abstract
+- **Homework**: 5-7 minute oral presentation (group 2)
 
-###4/8: Formal Drafts Due by 5PM
+###4/11: Structure
 
-###4/11 - 4/15 P3 Conferences
+- Reading: None
+- Homework: Exercise 3c
 
-###4/11: Draft Workshop
+###4/13: Formal Drafts Due by class
 
-- **Reading**: Partner's Draft
-- **Homework** Annotated copy of partner's essay **Final due 12/7**
+###4/13 - 4/19 P3 Conferences
 
-###4/13: Using Sources
+###4/13: Finding Your Narrative - Startup Podcast Exercise
 
-- **Reading**: TBA
-- **Homework** Exercise 3d
+- Reading: None
+- Homework: Formal Draft
 
-###4/20: Final Essay Due (in class)
-
-##4th Progression: Op-Ed: Localism and the Planet
-
-###4/18: Final P3 Workshop
+###4/18: P3 Workshop
 
 - **Reading**: Partner's Draft
 - **Homework** Exercise 4a
+
+###4/23: Final P3 Essay Due 5PM (via Courseworks)
+
+##4th Progression: Op-Ed: Localism and the Planet
 
 ###4/20: Paper versus Publication
 
